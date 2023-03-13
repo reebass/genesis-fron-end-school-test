@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/genesis-fron-end-school-test/static/css/main.7acaea2f.css",
+    "main.js": "/genesis-fron-end-school-test/static/js/main.07d3183d.js",
+    "index.html": "/genesis-fron-end-school-test/index.html",
+    "main.7acaea2f.css.map": "/genesis-fron-end-school-test/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/genesis-fron-end-school-test/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
